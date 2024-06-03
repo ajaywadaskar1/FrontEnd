@@ -1,0 +1,160 @@
+{
+  "user": [
+    {
+      "id": "aks1231",
+      "name": "tushar bhalerao",
+      "password": "Aksbhalerao@88",
+      "email": "abhalerao.c@stc.com.bh",
+      "gender": "male",
+      "location": "resort1",
+      "department": "HR",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "aks12312",
+      "name": "adf bhalerao",
+      "password": "Aksbhalerao@88",
+      "email": "abhalerao.c@stc.com.bh",
+      "gender": "male",
+      "location": "Restaurent2",
+      "department": "Cleaning",
+      "role": "tech",
+      "isactive": true
+    },
+    {
+      "id": "aks123133",
+      "name": "sddfs bhalerao",
+      "password": "Aksbhalerao@88",
+      "email": "abhalerao.c@stc.com.bh",
+      "gender": "male",
+      "location": "resort1",
+      "department": "HR",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "aks123144",
+      "name": "tushar bhalerao",
+      "password": "Aksbhalerao@88",
+      "email": "abhalerao.c@stc.com.bh",
+      "gender": "male",
+      "location": "resort1",
+      "department": "HR",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "aks123155",
+      "name": "tushar bhalerao",
+      "password": "Aksbhalerao@88",
+      "email": "abhalerao.c@stc.com.bh",
+      "gender": "male",
+      "location": "resort1",
+      "department": "HR",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "aks123166",
+      "name": "tushar bhalerao",
+      "password": "Aksbhalerao@88",
+      "email": "abhalerao.c@stc.com.bh",
+      "gender": "male",
+      "location": "resort1",
+      "department": "HR",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": "aks123177",
+      "name": "tushar bhalerao",
+      "password": "Aksbhalerao@88",
+      "email": "abhalerao.c@stc.com.bh",
+      "gender": "male",
+      "location": "resort1",
+      "department": "HR",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "aks123188",
+      "name": "tushar bhalerao",
+      "password": "Aksbhalerao@88",
+      "email": "abhalerao.c@stc.com.bh",
+      "gender": "male",
+      "location": "resort1",
+      "department": "HR",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "aks123199",
+      "name": "tushar bhalerao",
+      "password": "Aksbhalerao@88",
+      "email": "abhalerao.c@stc.com.bh",
+      "gender": "male",
+      "location": "resort1",
+      "department": "HR",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "aks123100",
+      "name": "tushar bhalerao",
+      "password": "Aksbhalerao@88",
+      "email": "abhalerao.c@stc.com.bh",
+      "gender": "male",
+      "location": "resort1",
+      "department": "HR",
+      "role": "",
+      "isactive": false
+    }
+  ],
+  "role": [
+    {
+      "code": "admin",
+      "name": "admin"
+    },
+    {
+      "code": "manager",
+      "name": "Manager"
+    },
+    {
+      "code": "emp",
+      "name": "Employee"
+    },
+    {
+      "code": "tech",
+      "name": "Technical"
+    }
+  ],
+  "location": [
+    {
+      "id": "1",
+      "name": "Restaurent1"
+    },
+    {
+      "id": "2",
+      "name": "Restaurent2"
+    },
+    {
+      "id": "3",
+      "name": "Restaurent3"
+    }
+  ],
+  "department": [
+    {
+      "id": "1",
+      "name": "HR"
+    },
+    {
+      "id": "2",
+      "name": "Operations"
+    },
+    {
+      "id": "3",
+      "name": "Cleaning"
+    }
+  ]
+}
